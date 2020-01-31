@@ -1,0 +1,5 @@
+[package]
+name = "hfuzz"
+version = "0.1.0"
+authors = ["Frank Denis <github@pureftpd.org>"]
+edition = "2018"

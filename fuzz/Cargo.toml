@@ -1,0 +1,25 @@
+[package]
+name = "hfuzz-fuzz"
+version = "0.0.0"
+authors = ["Automatically generated"]
+publish = false
+edition = "2018"
+
+[dependencies]
+futures = "0.3"
+hyper = { version = "0.13", default-features = false, features = ["stream"] }
+tokio = { version = "0.2", features = ["full"] }
+
+[package.metadata]
+cargo-fuzz = true
+
+[dependencies.libfuzzer-sys]
+git = "https://github.com/rust-fuzz/libfuzzer-sys.git"
+
+# Prevent this from interfering with workspaces
+[workspace]
+members = ["."]
+
+[[bin]]
+name = "f1"
+path = "fuzz_targets/f1.rs"
