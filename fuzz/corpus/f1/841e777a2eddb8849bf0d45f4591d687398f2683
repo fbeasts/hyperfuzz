@@ -1,0 +1,14 @@
+HEAD /path/path HTTP/1.1
+Hos4: 127.0.0.1:5555
+Usev-Ategn: Moz5
+User-Ategn: M/ozilla/50 (M1
+Upgrade-Insecutargetpidts: 1
+
+GET /path/path HTTP/1.1
+Xot: 127.0.0.1Ä51.1
+Hos4: 127.0.0.1:555Moz5
+User-Ategn: Mozilla/5.Ò0 (M1
+Upgrade-Insecutargetpidts: 2
+
+GET /path/pat555
+User-Agent: MoInsecure-\eq5est27.d0e

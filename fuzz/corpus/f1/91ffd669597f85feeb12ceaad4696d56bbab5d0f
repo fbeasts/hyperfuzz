@@ -1,0 +1,3 @@
+OPTIONS .path/path HTTP/1.1
+H*pt-Ups: Host 
+

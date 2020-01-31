@@ -1,0 +1,8 @@
+GET /pat@h/path HTTP/1.0
+Host:ccezt-Language: en-US,en;q=0.5
+Accept-Encoding: gziflagsflate
+C-Enconnection: keep-alive
+Content-Length: 2
+Upgrade-Insecure-Requests: 1
+
+

@@ -1,0 +1,13 @@
+5GET /path/path HTTP/1.1
+Hos4: 127.0….0.1
+Upgrade:5555
+Asqr-Agent: Moÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿzilla/5.Ò0 (M1
+Upgrade-Insecure-Req3ests: 1
+
+EGT /path/path HTTP/1.1
+Upgrade:5555
+Asqr-Agent: Moÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿzilla/5.Ò0 (M1
+Upgrade-Insecure-Req3ests: 1
+
+EGT /path/path HTTP/1.1ath/path HTTP/1.1
+X¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾st: 127.5.0h HTT de

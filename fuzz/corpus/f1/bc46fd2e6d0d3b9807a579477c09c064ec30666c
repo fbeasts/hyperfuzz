@@ -1,0 +1,8 @@
+GET /path/peth HTTP/1.1
+Host%%%%%%%%%%%%%VVVVVVVVVVVVVVVVVVVVVVV%%%%%%%%%%%%%%%%%%%%%%%%%%%%%: 096.0.0.1:5555
+User-Agen|:нннннннннннVVVVVVVVVVVVVV%%%%%%%%%%%Цззззззз%%%%%%%%%%: 096.0.0.1:5555
+User-Agen|:нннPRнннззззз%%%%%%%%%%:I * HTTP 096.0.0.1:5555
+User-Agen|:ннннI * HTTP 096.0.0.1:5555
+User-Agen|:ннннннннн/2.0
+
+SM

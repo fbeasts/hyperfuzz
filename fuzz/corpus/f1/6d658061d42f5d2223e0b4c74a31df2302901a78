@@ -1,0 +1,9 @@
+GET /path/path HTTP/1.1
+Host: 127.0.0.1:555ecko/20100101 Firefox/74.0
+Accfpt: text/html,application/xhtml+xml,applicatT /path/path HTTP/1.1
+Host: 127.0.0.1:555ecko/20100101 Firefox/74.0
+Accfpt: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.=0.5
+Accept-Encoding: gzip, def keep-alive
+Content-Length: 1óõUpgrade-Insecure-Requests: 1
+
+

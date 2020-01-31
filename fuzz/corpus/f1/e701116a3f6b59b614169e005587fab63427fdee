@@ -1,0 +1,9 @@
+GET /path/path HTTP/1.1
+Host: 127.0.0.1:555ecko/20100101rF iefox/74.0
+Accfpt: text/html,ation/xhtml+xml,applicatth HTTP/1.1
+Host: 127.0.0.1:555ecko/20100101rF iefox/74.0
+Accfpt: text/html,ation/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.=0.5
+Acceprade-Iosecure-Requests: ion/xml;q=0.9,image/webp,*/*;q=0.=0.5
+Acceprade-Iosecure-Requests: 1
+
+

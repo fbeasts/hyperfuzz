@@ -1,0 +1,6 @@
+HEAD -path/path HTTP/1.1
+dtpidts: 1
+
+GET /path/path HTTP/1.1
+X7.0.0.1Ä5555
+User-Agent: MoInsecure-Req5est27.d0e

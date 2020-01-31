@@ -1,0 +1,10 @@
+GET /path/path HTTP/1.0
+Host:ccept-Language: en-US,en;q=0.5
+Accept-Eniodcng: gzit-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Conn+ction:p, deflate
+Connection: keep-alive
+Cntneot-Length: 5
+Upgr!ade-Insecure-Requests:Ú1
+
+

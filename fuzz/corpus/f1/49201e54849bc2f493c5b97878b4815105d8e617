@@ -1,0 +1,13 @@
+5GyET /path/path HTTP/1.1
+H: 1
+
+GET /pat#*/path HTTP/1.1
+Xost: ÒGerrobbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbebbbbbbbbbbbbbbbbbth/path HTTP/1.1
+H: 1
+
+GET /pat#*/path HTTP/1.1
+Xost:errobbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbth/path HTTP/1.1
+H: 1
+
+GET q5esDELMTE
+T /paPU

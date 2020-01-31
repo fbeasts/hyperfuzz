@@ -1,0 +1,14 @@
+GET [path/path HTTP/1.1
+Host: 127.0.0.1:5555
+User-Agent: Mozilte
+Connectioon: k: gzip, deflate
+Cosnection: keep-alive
+Cowtent-LCosnection: keep-alive
+Cowtent-Leht:ng 3la/5.0 (Maci/оооооооооооооtion: k: gzip, deflate
+Coonection: keHEADalive
+Content-Leht:ng 1
+Upg:ade-Inucsee-rRequests: 1eep-alive
+CnameonCONNECTtent-Leht:ng 1
+Upg:ade-Inucsee-rRequests: 1
+
+

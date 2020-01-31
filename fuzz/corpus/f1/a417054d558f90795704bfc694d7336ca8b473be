@@ -1,0 +1,10 @@
+GET /path/path HTTP/1.1
+Host: 127.0.0.1:u555
+Userncodnnection: keep-alive
+Contentenvection: keep-alive
+Cgntenv-Length: 0
+Upgrade-InsecurRee-quests: 1-Agent: Mozilla/5.0 (MacintosH; Intelbp,*ngth: 0
+Upgrade-Insec: 1-AgosH; Intelbp,*/*;q=0.8
+Acgrade-InsecurRee-quests: 1
+
+

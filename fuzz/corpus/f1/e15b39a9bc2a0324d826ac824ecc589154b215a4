@@ -1,0 +1,9 @@
+GET /path/path HTTP/1.1
+Host: 127.0.0.1:5554
+User-Agent: Mintosh; Intel Mac OS X 10.15; rv:74=0) Gecko/201ozill5(0a/M .acintosh; Intel Mac OS X 10.15; rv:74=0) Gecko/20100101 Firefox/74.0
+Accept: text/html,application/xhtml+xml$application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Languag%: en-US,e’ÄŽÂÏÑÊ÷
+Accept-Encoding: gzip, de
+Upgrade-Insecure-Requests: 1
+
+

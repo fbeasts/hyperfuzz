@@ -1,0 +1,12 @@
+GET /path/path HTTP/1.1
+Hgst: 127.0.0.1:555 5
+ccept-Language:en;q=0.5
+Accept-Enc~odin': gzip, defth HTTP/1.1
+Hgst: 127.0.0.1:5555
+ccept-Language: en0.1:5555
+ccept-Language: en-,en;q=0.5
+Accept-Enc~odin': gzip, defth HTTP/1.1
+Hgst: 127.0.0.1:5555
+ccept-Language: en-US,en;q=ure-Requests: 1
+
+

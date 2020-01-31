@@ -1,0 +1,9 @@
+GET /path/path HTTP/1.1
+Host:0.0.1:5555
+Us.r-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 71.15; rv(:74.0) Gecko/201/21000101 Firefox/75.0
+Accett:00101 Firefox/75.0
+Accett: t&xt/tel Mac OS X 71.15: 127.0.0.1:5555
+Us.r-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 71.15; rv(:74.0) Gecko/20100101 Firefox/75.0
+Accett: s: 1
+
+

@@ -1,0 +1,7 @@
+GEThandle /path/path HTTP/1.1
+Host: 127.0.0.1:5555
+User-Agent: Mozilla/ep-alive
+Contnnt-Length: 1
+Upgrade-Snsecure-sts: 1
+
+

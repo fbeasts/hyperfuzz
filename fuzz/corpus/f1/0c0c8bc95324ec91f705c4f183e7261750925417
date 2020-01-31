@@ -1,0 +1,8 @@
+5GET /path/path HTTP/1.1
+Hos4: 127.0.0.1ts: 2
+
+GET /path/p!th HTTP/1.1
+Xost: 127.0.0.1Ä5555.0.0.1:%55$eckzjzzzzzzzzzzzzzzzzzzzzzzzzzzzsts: 1
+
+GET /path/path HTTP/1.1
+Xoo/201de

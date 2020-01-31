@@ -1,0 +1,11 @@
+GET /path/path HTTP/1.1
+Host: 127.0.0.1:5555
+User-Agent: Mozilla/5.en-US,en;q=0.5.5
+Accext-Encoding: gzip, deflateko/20100101 age: en-US,en;q=0.5.5
+Accept-Encoding: gzip, deflate
+Connection: keeent: Mozilla/5.en-US,en;q=0.5.5
+Accext-Encoding: gzip, deflateko/20100101 ap-alive
+Coent-Leht:ng 1
+Upgrade-Insecure-Requests: 1
+
+

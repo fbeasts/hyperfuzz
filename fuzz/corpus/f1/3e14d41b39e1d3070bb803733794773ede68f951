@@ -1,0 +1,11 @@
+GXPCErrorDET /path/path HTTP/1.1
+Host: 127.0on: keep-alive
+Content-Length: 1óõUpgrade-Insecure-Requests: 1
+
+PRI * HTTP/2.0
+
+SM
+
+1óõUpgrade-Insecure-Requests: 1
+
+

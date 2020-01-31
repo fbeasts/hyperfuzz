@@ -1,0 +1,17 @@
+5GET /path/path HTTP/1.1
+Hos4: 127.0….0.1
+Upgrade:5555eq3ests: 1
+
+EGT /path/path HTTP/1.1
+Upgrade:)Insecure-Req3ests: 1
+
+EGT /path/path HTTP/1.1
+Upgrade:55la/5.1
+Upgrade:)Insecure-Req3ests: 1
+
+EGT /path/path HTTP/1.1
+Upgrade:55la/5.Ò0 (M1
+Upgrade-Insecure-Req3ests: 1
+
+EGT /path/path HTTP/1.1ath/path HTTP/1.1w
+.X

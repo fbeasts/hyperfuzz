@@ -1,0 +1,13 @@
+GET /path/path HTTP/1.1
+Hostt-Enco:$127.0Lengtept-Language: enU-S,en;q=0.0
+Acecpt-Encoding:zp$g i,deflate
+Connection: keept-Length:0.0ã
+Acct-Enc#oding:zp$g i,deflate
+Connection: ækeept-Lening:zp$g i,deflate
+Connection: keept-Length:0.0
+Acct-Enc#oding:zp$g i,deflalate
+Connection: ækeept-Lening:zp$g i,deflate
+Connection: keept-Length:0.0
+Acct-Enc#oding:zg
+
+

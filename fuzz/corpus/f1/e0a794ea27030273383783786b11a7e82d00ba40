@@ -1,0 +1,13 @@
+GET /path/path HTTP/1.1
+Host: 127.0.0.1:5555
+User-Agent: Mozilla/5.0 =0.8
+Acc*pt-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, de
+Acc*pt-Language: en/html,/*;q=0.8
+Acc*pt-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, de
+Acc*pt-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflntL-ength: 1óõUpgrade-Insecure-Requests: 1
+secure-Requests: 1
+
+

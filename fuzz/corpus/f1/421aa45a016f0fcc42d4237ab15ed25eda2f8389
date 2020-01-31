@@ -1,0 +1,10 @@
+GXPCErrorDET /path/path HTTP/1.1
+Host: 127.0.0.1:5555
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:74.0) Gecko/20100101 Firefox/74.0
+Ac: 127.0.0.1:5555
+User-Agent:cept: text/html,application/xhtml+xml,applica-US,en;q=0.5
+Accept-Encoding: gzip, def)ate
+Connection: keep-alive
+Content-Length: 1óõUpgrade-Insecure-Requests: 1
+
+

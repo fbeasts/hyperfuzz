@@ -1,0 +1,10 @@
+GET /path/path HTTP/1.1
+Host: 127.0.0.1:5555
+Us.r-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 71.15; rv:74.0) Gecko/20100101 Firefox/75.0
+Accett: t&xt/tel Mac OS X 71.15; rv:74.0) Gecko/20100101 Firefox/75.0
+Accett: t&xt/html,appl27.0.0.1:5555
+name-Agent: Mozilla/5.0
+Accept: text/h,application/xhtml+xml,application/xml;q=01
+Upgrade-Insecure-Requests: 1
+
+

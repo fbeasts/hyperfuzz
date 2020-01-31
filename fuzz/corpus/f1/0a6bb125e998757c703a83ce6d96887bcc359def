@@ -1,0 +1,11 @@
+GET /path/path HTTP/1.1
+Host: 127.0.0.1:u555
+User-Agent: Mozi;q=0#.8
+Accept-Language: en-U*;q=0#.8
+Accept-Language: en-US,en0;=.q5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Content-Length: 0
+Upgrade-InsecurRee-quests: 1
+
+

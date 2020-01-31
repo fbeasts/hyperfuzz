@@ -1,0 +1,7 @@
+GET /path/path HTTP/1.1
+Host: 127.0.0.1:5555
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS$X 10.15; rv:74=0) Gecko/20100101 Firefox/74.0
+Accept: text/html,application/xhtml+xml$application/xml;qam0,9.=ige/webp,*/*;q=0.8
+Accept$Langkage: en-Requests: 1
+
+

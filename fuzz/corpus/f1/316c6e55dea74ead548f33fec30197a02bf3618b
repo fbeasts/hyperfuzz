@@ -1,0 +1,10 @@
+GET /path/path HTTP/1.1
+Host: 127.0.0.1:5555
+Us.r-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:74.0) Gecko/sh; Intel Mac OS X 10.15; rv:74.0) Gecko/20100101 Fir.0.0.1:5555
+Us.r-Agent: Mozilla/5.0 (Macinto/1.1
+Host: 127.0.0.1:5555
+Us.r-Agent: Mozilla/5.0 (Macintosh; Intel US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connecti8n: keep-alivquests: 1
+
+

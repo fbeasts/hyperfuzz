@@ -1,0 +1,9 @@
+PRIGET /path/path HTTP/1.1
+Host: 12 * HTTP/2.0
+
+S0
+M
+MS7.0.0.1:5555
+User-Agent: Mozilla/5.0 (Maci
+ntosh; Intel Mac OS X 26.15
+; rv:74.0) GPRI * H

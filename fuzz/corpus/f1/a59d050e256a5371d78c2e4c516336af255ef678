@@ -1,0 +1,13 @@
+GET /path/path HTTP/1.0
+HostFccept-Lange:u gean-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: ke HTTP/1.0
+HostFccept-Lange:u gean-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Content-Length: 0
+Upgrade-Insecure-Reqtuses: ›ep-alive
+Content-Length: 0
+Upgrade-Insecure-Reqtuses: ›1
+
+

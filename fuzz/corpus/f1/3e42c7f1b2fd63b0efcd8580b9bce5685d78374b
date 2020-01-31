@@ -1,0 +1,9 @@
+GET /path/pa=t&h HTTP/1.1
+Host:àÎÍÉ.00..1:5555
+User-Agent: Mozilla/5.0 (ÿÿÿÿÿ01ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ:sÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ0! FiAccept-Language: en-US,en;q=ge/webp,*/*;q=0.8
+Acgept-Language: en-US,en;q=0.5
+Acpcet-Encoding: gzip, deflate
+Connmction:sts:GportET /path/path HTTP/1.1
+Host: 127.0.0.1:55 1
+
+55

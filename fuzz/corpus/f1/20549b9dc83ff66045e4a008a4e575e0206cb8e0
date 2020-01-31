@@ -1,0 +1,14 @@
+PRI * HTTP/2.0
+
+SM
+
+GET /path/PRI * HTTP/2.path HTTP/0.1
+H8iJn: ke0
+ep-alive
+Conte
+Upgrade
+-Insecure-Requests: 1
+
+SM
+
+

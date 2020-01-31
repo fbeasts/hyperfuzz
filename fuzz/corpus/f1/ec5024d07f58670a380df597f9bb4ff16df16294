@@ -1,0 +1,15 @@
+GET /path/path HTTP/1.0
+Host:cceep-alive
+Coccept-Encoding: gzip, deflate
+Connection:XPCEeflate
+Connection:,en;q=0.5
+Accept-Enconidg: gzit-Lanç
++ccept-Encoding: gzip, deflate
+Connection:Xuage: -US,en;q=0.5
++ccept-Encoding: gzip, deflate
+Connection:XPCEeflate
+Connection: keep-alive
+Cont-negtneLt:h 5
+Upgr!ade-Insecure-Requests: 1
+
+

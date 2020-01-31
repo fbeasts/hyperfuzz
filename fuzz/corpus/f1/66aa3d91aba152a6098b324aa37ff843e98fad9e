@@ -1,0 +1,15 @@
+GET /path/path HTTP/1.1
+Host: 127.0.0
+Acc*pt-Lang-Insecure-Requests: T /path/path HTTP/1.1
+Host: 127.0.0
+Acc*pt-Lang-ost: 127.0.0
+Acc*pt-Lang-Insecure-Requests: T /path/path HTTP/1.1
+Host: 127.0.0
+Acc*pt-Lang-Insecure-Requests: 1
+sec-reuRequestsInsecure-Requests: 1
+sec-reuRequests: 1
+
+1
+sec-reuRequests: 1
+
+

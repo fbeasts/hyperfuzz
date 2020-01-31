@@ -1,0 +1,13 @@
+GET /path/path HTTP/1.1
+Host: 127.0.0.1:5559,image/webp,*/*;q=0ncoding=0.5
+Accept-Encoding: : gzip, sejon: kš›Òž“–e
+Contnnt-Length:ladeflate
+Connectjon: k›šÒž“–e
+Contnnt-Length: 0
+Upgrade-Snsejon: kš›Òž“–e
+Contnnt-Length:late
+Cnecjonnon: k›šÒž“–e
+Contnnt-Length: 0
+UpgradSen-secure-Requests: 1
+
+

@@ -1,0 +1,8 @@
+GET /path/path HTTP/1.1
+Hostequests: 1
+stequests: 1
+
+
+CONNECT
+Us-er-Agent: Mrorion/xhtml+xml,applicathhhhhhhhhhhhhhhhhhhhh
+

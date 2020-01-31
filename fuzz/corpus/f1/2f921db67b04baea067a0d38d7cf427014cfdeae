@@ -1,0 +1,12 @@
+GET /path/path HTTP/1.1
+H:$gzi/1.1
+H:$gzip, deflate
+CnectAccept-Encodingth: 0OOOOOOOOOOOOOOOOOOOOding:$gzip, deflate
+CnectAccept-Encodingth: 0OOOOOOOOOOp, deflate
+CnectAccept-Encodingth: 1OOOOOOOOOOOOOOOOOTTP/1.1
+H:$gzi/1.1
+H:$gzip, deflate
+CnectAccept-Encodingth: 0OOOOOOOOOOding:$gzip, deflate
+CnectAccept-Encodingth: 0OOOOOOOOOOOOOOOOOOOOOOOO 1
+
+

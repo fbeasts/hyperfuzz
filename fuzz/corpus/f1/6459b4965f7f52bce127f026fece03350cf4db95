@@ -1,0 +1,10 @@
+GET /path/path HTTP/1.1
+Host: 127.4.0.1:u555
+User-Agent: Mozilla/5.0 &Macintosh; Intelbp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Content-Lnegth: 0
+Upgrade-InseaurRee-quests: 1
+
+

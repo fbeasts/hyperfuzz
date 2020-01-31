@@ -1,0 +1,7 @@
+GET /path/path HTTP/1.1
+Host:ccept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Coutent-Length:flagspgrade-Insecure-Requests: 1
+
+

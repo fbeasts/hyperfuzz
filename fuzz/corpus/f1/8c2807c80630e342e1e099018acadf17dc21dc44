@@ -1,0 +1,15 @@
+5GET /path/path HTTP/1.1
+Hos4: 127.0.0.1:5555
+User-Ategn: Mozilla/5.Ò0 (M1
+Upgrade-Insecutargetpidts: 1
+
+GET /path/path HTTP/1.1
+Xost: 127.0.0.1Ä5555
+User-Agent: MoInsecure-Req5ests: 1óõòøGET /Âpath//1.1Ò0 (M1
+Upgrade-Insecutargetpidts: 1
+
+GET /path/path HTTP/1.1
+Xost: 127.0.0.1Ä5555
+User-Agent: MoInsecure-Req5ests: 1óõòøGET /Âpath//1.1
+
+Host: 127.0de

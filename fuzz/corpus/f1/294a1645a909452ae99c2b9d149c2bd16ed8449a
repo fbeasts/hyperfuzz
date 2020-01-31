@@ -1,0 +1,14 @@
+GDELETEET /path/path HTTP/1.1
+ncoding: gzip, deflateÿÿÿÿÿÿZtent-Lejgth:ecure-R¡eqÿÿÿÿÿÿÿÿ
+
+ET /path/path HTTP/1.1
+ncodiog:-L
+Connection: kAep-alÿÿÿÿÿÿÿZtentÿÿÿÿÿÿÿZtent-Lejgth:ecure-R¡eqÿÿÿÿÿÿÿÿ
+
+ET /path/path HTTP/1.1
+ncodiog:-Lejgth:ecure-R¡eqÿÿÿÿÿÿÿÿ
+
+ET /path/path HTTP/1.1
+ncodiog: gzip, deflate
+Connection: keep-ali,e
+

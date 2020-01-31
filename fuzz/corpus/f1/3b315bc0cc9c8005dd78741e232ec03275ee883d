@@ -1,0 +1,10 @@
+GET /path/path HTTP/1.0
+Host:ccept-Language: en-US,en;q=0.5
+Accept-Encoding: gzit-Lançuage: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection:XPCE%flate
+Con$nection: keep-alive
+Cont-negtneLth: 2
+Upgr!ade-Insecure-Requests: 1
+
+

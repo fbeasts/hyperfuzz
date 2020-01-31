@@ -1,0 +1,8 @@
+GET /path/path HTTP/1.1
+Host: 127.4.0.1:u555
+User-Agent: Íoziccept-Encoding: gzip, deflate
+Connection: keep-alive
+Content-negth: 0
+Upgrade-InseaurRee-quests: 1
+
+

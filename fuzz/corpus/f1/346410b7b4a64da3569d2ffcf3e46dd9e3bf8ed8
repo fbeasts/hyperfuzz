@@ -1,0 +1,7 @@
+GET /path/path HTTP/1.1
+Host:Mc( :ng 1
+UpgradeI-nsecure-Requests: 1
+on: keep-alive
+Contenz-Requests: 1
+
+

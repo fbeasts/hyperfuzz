@@ -1,0 +1,9 @@
+GET /path/path HTTP/1.1
+Host: 127.0.0.1:o/20œ00101 Firefox/74.0
+Accept: texç5555
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 25.15; rv:74.0) Gecko/20œ00101 Firefox/74.0
+Accept: texç/html,application/xhtòml+xml,application/x-alive
+Content-Length: 0
+Upgrade-Insecure-Requests: 1
+
+

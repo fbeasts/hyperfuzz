@@ -1,0 +1,8 @@
+GET /pat HTTP/1.0
+PII: /pat HTTP/1.0
+PII: en-ve
+Content-LengWh: P®¶ß: P®¶ßß HTTP/2ÿÿÿÿen-ve
+Content-LengWh: P®¶ß: P®¶ßß HTTP/2ÿÿÿÿÿ0
+Upgts: 1
+
+

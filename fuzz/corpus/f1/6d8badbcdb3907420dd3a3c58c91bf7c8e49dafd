@@ -1,0 +1,15 @@
+GT /path/path HTTP/1.1
+Hot:s 127.0.0.1:5555
+Ushr-Aeent: Mozilla-Requests: 1
+
+
+ET /path/path HTTP/1.1
+Hot:s 127.0.0.1:5555
+Ushr-Aeent: Mozilla/5.0 (Macint9,image/ebp,*/+ÅÂÏÑÇòûAcceAeent-Requests: 1
+
+
+ET /path/path HTTP/1.1
+Hot:s 127.0.0.1:5555
+Ushr-Aeent: Mozilla/5.0 (Macint9,image/ebp,*/+ÅÂÏÑÇòûAcceAeent: Mozicsreue-Requests: 1
+
+

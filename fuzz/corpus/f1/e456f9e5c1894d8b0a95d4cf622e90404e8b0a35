@@ -1,0 +1,20 @@
+5GET /path/path HTTP/1.1
+Hos4: 12(M1
+
+EGT /path/path HTTP/1.1
+Xost: 127.0.0.1:5555
+Asqr-Agent: Mozilla/ 0
+
+EGT /path/path HTTP/1.1
+Xost: 127.5.0.555
+Asqr-Agent: Mozilla/5.Ò0 (M1
+
+EGT /path/path HTTP/1.1
+Xost: 126.5.0.555
+Asqr-Agent: Mozilla/5.Ò0 (MÄ55 /path/Žž
+Xost:‹— HTTP/1.1
+Hos4: 127s: 1
+
+GET /path/pat4 :2s: 1
+
+GET /path/paET /path/patGET 4 :

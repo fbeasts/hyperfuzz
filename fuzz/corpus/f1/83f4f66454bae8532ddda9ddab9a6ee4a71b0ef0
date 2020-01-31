@@ -1,0 +1,10 @@
+GET /path/path HTTP/1.1
+Host: 127.0.0.1:5555
+Us.r-Agent: M’ozilla/5.0 (Macinath HTTP/1.1
+Host: 127.0.0.1:5555
+Us.r-Agent: M’ozilla/5.0 (Macintos Mozilla/5.0 (Macint=0,8
+Accept-L`nguage: ectos Mozilla/5.0 (Macint=0,8
+Accept-L`nguage: ecept: text/html,application/xhtml+xml,application/xml;q=0.8,image/webp,*/*;q=0.8
+Accept-Language-Insecure-Requests: 1
+
+

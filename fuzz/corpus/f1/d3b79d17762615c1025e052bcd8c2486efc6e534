@@ -1,0 +1,13 @@
+int9GET /path/path HTTP/1.0
+Host: 127.0.0.1:5555
+User-Agent: MozillaHTTP/1.1
+Host: 127.0.0.1:5555
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 26.15555
+User-etAng: MozillaHTTP/1.1
+Host: 127.0.0.1:5555
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 26.15; rv:74.0) GPRI * HTTP/2.0
+
+SM
+
+ngth: 0
+Upgrade-IRkquestr:0.8Giÿÿÿ

@@ -1,0 +1,7 @@
+GET /path/path HTTP/1.1
+Host: 127.0.0.1:5555
+Us.r-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 05.15; rv:74.0) Gecko/20100100 Firefox/75.0
+AccAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv5.15; rv:74.0) Gecko/20100100 Firefox/75.0
+AccAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:74.0) Gecko/20100100 Firefox/7.0) Gede-Insecure-Requests: 1
+
+

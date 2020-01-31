@@ -1,0 +1,10 @@
+GET /path/path HTTP/1.1
+H-Encoding: gzip, deflate
+Connection: keep-alive
+Content-Lengti:eep-
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Content-Lengti:eep-alive
+Content-Lengti: 2óõUpgrade-I`secure-Requests: 1
+
+

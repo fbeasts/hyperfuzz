@@ -1,0 +1,17 @@
+5GET /path/path HTTP/1.1
+Hos4: 127.0.0.1:555
+Hos4: 12 127.5.0.1Ä5555
+Use-rAggtn: MozillaAgent: Mozil/5.Ò0 (M1
+Upgrade-Iesuncre-Req5ests: M
+
+GeT /path/path HTTP/1.1
+Xost: 127.5 Mozil/
+Upgrade-Iesuncre-Req5ests: M
+
+GeT /path/path HTTP/1.1
+Xost: 127.5.0.1Ä5555
+User-Agent: Mozil5.Ò0 (M1
+Upgrade-Iesuncre-Req5ests: 1
+
+GET 55
+Use-rde

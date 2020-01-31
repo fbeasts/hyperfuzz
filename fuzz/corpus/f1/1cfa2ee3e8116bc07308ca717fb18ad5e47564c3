@@ -1,0 +1,6 @@
+GET /path/path HTTP/1.1
+Host: 127.0.0.1:5555
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15GET /path/p#th HTTP/1.1
+Host: 12Æ7.0.70.1:5555
+User-Agent: Mozilla/5.0 (Macintoshac OS X 10.15; rv:Ã/; rv:74.0) Gecko/20100101 Firefox/74.0
+Accept:

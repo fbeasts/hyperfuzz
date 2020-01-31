@@ -1,0 +1,20 @@
+5GET /path/path HTTP/1.1
+
+
+GET /path/path HTTP/1.1
+Xost: 127Š.05GET /path/path HTTP/1.1
+
+
+GET /path/path HTTP/1.1
+Xost: 127Š.deflate
+Cnonpgection:1
+Xost: 1
+
+GET /path/path HTTP/1.1
+Xost: 127Š.05GET /path/path HTTP/1.1
+
+
+˜˜˜˜˜˜˜˜˜˜˜˜˜˜/path HTTP/1.1
+Xost: 127Š.deflate
+Cnonpgection:1
+Xost: 120defla20deflate7.0def

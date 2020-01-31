@@ -1,0 +1,12 @@
+GET /path/path HTTP/1.1
+H!ost: 127.0.0.1:5554
+User-Agent: Mo
+Acceing: gzip, deflatS,e’ÄŽÂÏÑÊ÷
+Accept-Encoding: gzip, deflate
+Connectionrade-Insecure-Requests: 0
+
+
+
+Upgrade-Insecure-Requests: 1
+
+

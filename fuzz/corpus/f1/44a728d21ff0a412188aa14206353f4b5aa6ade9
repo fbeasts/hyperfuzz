@@ -1,0 +1,11 @@
+GET /path/path HTTP/1.1
+Hgst: 127.0.0.1:5555
+User-Age%nt: Mozilla/50. (Macintosh; Intel Ma00101 Firefox/ng: gzip, deflate
+Connection: tion/xhtml+xml,apflication/xml;q=0.9,int∆ﬂ≤êzilla/50. (Macintosh; Inmage/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Content-Leht:ng 1
+Upgrade-Insecure-Requests: 1
+
+

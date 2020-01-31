@@ -1,0 +1,10 @@
+GET /path/path HTTP/1.1
+Host: 1=1.5
+Accept-Encoding: gzip, degzip, deflate
+Connection: keept-Length: 0
+Upgrade-Insecure-Requests:OOOOOgtept-on: keept-Length: 1
+Upgrade-Insecure-Requests:OOOOOgflate
+Connection: keept-Length: 1
+Upgrade-Insecure-Requests:OOOOOgtept-on: keept-Length: 1
+Upgrade-Insecure-Requests:OOOOOgtept-;q
+

@@ -1,0 +1,5 @@
+GET /path/pat?h HTTP/1.1
+
+User-Agent: MHost: 127.0ÿÿ/path/path HTTP/1.1
+Host: 127.0ÿÿÿÿÿÿÿ50.1:5555
+User-Agent: Mozilla/5.0 (Macintosh; ·Štelÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿþÿÿÿÿÿÿÿÿÿÿÿÿÿÿ1ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ.ÿÿÿ Mac O X : Mozilla/5; ·Štelÿÿÿÿÿÿÿÿÿÿÿÿÿÿ.ÿÿÿ Mac OS X 10.15;@ rv:ÃËÑÏ.0 (Macacintosh; Intel Mac OS X

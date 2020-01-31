@@ -1,0 +1,15 @@
+HEAD /path/path HTTP/1.1
+dts:
+Hos4: 127.0.0.1:5§555
+User-Ategn: MrgeHTTP/1.1
+dts:
+Hos4: 127.0.0.1:5§555
+User-Ategn: Mrgetpidts: 1
+
+GET /path/path HTTP/1.1
+Xot: 127.0.0.1Ä~5555
+User-Agent: MoInsecure-Req5est2tpidts: 1
+
+GET /path/path HTTP/1.1
+Xot: 127.0.0.1Ä~5555
+User-Agent: MoInsecure-Req5est2;.d0e

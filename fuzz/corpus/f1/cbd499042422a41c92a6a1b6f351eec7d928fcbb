@@ -1,0 +1,15 @@
+GET /path/p+ath HTTP/1.1
+Host: 127.0.0.1:555
+Uht:pe deflate
+Connection: 1.0,im deflate
+Connection: k deflate
+Connection: kee bpe
+Connection: k:pe don: 1.0,im deflate
+Connection: k deflate
+Connection: kee bpe
+Connection: k:pe deflate
+Connection: 0.9,.9,image/veimage/web,,*:pe deflate
+Connection: keep-ect ÿÉš; kee2
+
+
+%

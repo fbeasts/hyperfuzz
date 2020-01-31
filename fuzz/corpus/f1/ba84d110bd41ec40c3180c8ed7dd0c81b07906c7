@@ -1,0 +1,8 @@
+GET /path/peth HTTP/1.1
+Host%%%%%%%%%%VVVVVVVVVVVVVVVVVVVVVVVVVV%%%%%%%%%%%%%%%%%%%%%%%%%%%%%: 192.0.0.1:5555
+User-Agen|:ÎÎÎÎÎÎÎÎÎÎÎÎÎÎÎÎeth HTTP/1.1
+Host%%%%%%%%%%%%%%%%%%%VVVVVVVVVVVVVVVVVVVVVVVVV%%%%%%%%%%%%%%%%%%%%%%%%%%%%%: 192.0.0.1:5555
+User-Agen|:ÎÎÎÎÎÎÎÎÎÎÎÎÎÎÎÎeth HTTP/1.1
+Host%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%VVVVVV%%ade-Snsecure-sts: 1
+
+

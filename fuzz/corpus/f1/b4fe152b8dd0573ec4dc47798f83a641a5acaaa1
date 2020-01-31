@@ -1,0 +1,9 @@
+GET /path/path HTTP/1.1
+Host: 127.0.0.1:5555
+HEADUser-Aoent: Mozilla/5.a0¤Mc( intosh; Intel Macª OS X 10.15; rv:74.0) Gecko/20100101 Firefoxq=0.0.1:5555
+HEADUser-Aoent: Mozilla/5.a0¤Mc( intosh; Intel Macª OS X 10.15; rv:74.0) Gecko/20100101 Firefoxq=0.9,image/webp,*/*;q=0.8
+Accept-LiAnguage: en-USkeep-alive
+Content-Leht:ng 0
+Upgrade-Insecure-Requests: 1
+
+

@@ -1,0 +1,8 @@
+GET /path/path HTTP/1.1
+Host: 12ÿÿÿÿ 0
+Upgrade-Insecuee-Requestq:OOOOOOÿÿÿÿÿ«: 2OOOOOOOÿÿÿ 0
+Upgrade-Insecure-Requestq:Oÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ 0
+Upgrade-Insecure-Requestq:OOOOOOÿÿÿÿÿ«: 2OOOOOOOÿÿÿ 0
+Upgrade-Insecure-Requestq:OOOOOOÿÿÿÿÿ«: 2OOOÏOOOOOOOOOOOnÿ$-Usecure-Requestq:OOOOOOÿÿÿÿÿ«: 2OOOOOOOOOOOOOOOOOOOOOOOO 1
+
+GET /path/path HTTP/

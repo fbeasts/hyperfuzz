@@ -1,0 +1,27 @@
+5GET /path/path HTTP/1.1
+Hos4: 127.0.0.1:5555
+PUT: 1
+
+PATCH subsyspaath HTTP/1.1
+Hos4: 127.0.0.1:5555
+PUT: 1
+
+PATCH subsyspath HTTP/1.1
+Xost: th/path 
+
+G HTT1ath HTTP/1.1
+XostPUT: 1
+
+PATCH subsyspaath HTTP/1.1
+Hos4: 127.0.0.1:5555
+PUT: 1
+
+PATCH sub
+
+G HTT1ath HTTP/1.1
+Xost: tsts:TTP/1.1
+Xost: tat hh/p
+
+G HTT1ath HTTP/1.1
+Xost: tsts:s: 1
+ de

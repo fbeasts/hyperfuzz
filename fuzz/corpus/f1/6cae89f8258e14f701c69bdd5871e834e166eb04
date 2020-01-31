@@ -1,0 +1,13 @@
+GET /path/path HTTP/1.1
+Host: 1.1
+Host: 127.0.0.1:u555
+Userncoding: gzip, deflate
+Connection: keep-alive
+ContenConnection: keep-alive
+Contts: 1-Agent: Mozilla/5.0 (Macintoe-127.0.0.1:u555
+Userncoding: gzip, deflate
+Connection: keep-alive
+ContenConnection: keep-alive
+Contts: 1-Agent: Mozilla/5.0 (Macintoe-quests: 1
+
+

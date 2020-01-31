@@ -1,0 +1,10 @@
+GET /path/path HTTP/1.1
+s1:Hot2 7.0.0.1:€ÿÿÿÿÿÿÿ5555
+User-Agent: Mozilla/5.0 (Macintosh; I·ntelbp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Content-Lendth: 0
+Upgrale--Insecure-Requests: 1
+
+

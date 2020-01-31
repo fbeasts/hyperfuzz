@@ -1,0 +1,9 @@
+GET /path/path HTTP/1.0
+Host:ccepip, deflate
+Ct-Language: en-US,en;q=1.5
+Accoding: gzip, deflate
+Connection: keep-alive
+Co.tent-Length: 0
+Upgr!ade-Insecure-Requests: 2
+
+

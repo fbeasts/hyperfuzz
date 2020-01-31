@@ -1,0 +1,11 @@
+PUT /path/path HTTP/1.1
+Host: 127.0.0.1:5555
+User-Agent: Mozilte
+Connection: k: gzip, dePRI * HTTP/2.0
+
+SM
+
+flate
+Connection: ))))))))))))))))ucsee-rResuests: 1
+
+

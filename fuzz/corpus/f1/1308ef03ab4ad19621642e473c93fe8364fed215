@@ -1,0 +1,18 @@
+HEAD /path/path HTTP/1.1
+dts:
+Hos4: 127*0.0.1:5§555
+User-Ategn: MrgeHTTP/1.1
+dts:
+Hos4: 127.0.0.1:5§555
+User-Ategn: Mrgts:
+Hos4: 127.0.0.1:5§555
+User-Ategn: MrgeHTTP/1.1
+dts:
+Hos4: 127.0.0.1:5§555
+User-Ategn:etpidts: 1
+
+GET /path/path HTTP/1.1
+Xot: 127.0.0.1Ä~5555
+User-Agent: MoInsecuath/pat
+
+GET /

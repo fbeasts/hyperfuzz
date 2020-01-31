@@ -1,0 +1,13 @@
+HEAD /path/path HTTP/1.1
+Hos4: 127.0.0.1:5555
+User-Ategn: Mozilla/5.Ò0 (M1
+Upgrade-Insecutargetpydts:
+Hos4: 127.0.0.1:5555
+User-Ategn: Mozilla/5.Ò0 (M1
+Upgrade-Insecutsecure-Req5est.0.1:5555
+User-Ategn: Mozilla/5.Ò0 (M1
+Upgrade-Insecutargetpidts: 1
+
+GET /path/path HTTP/1.1
+Xot: 127.0.0.1Ä5555
+User-Agent: MoInsecure-Req5est27.d0e

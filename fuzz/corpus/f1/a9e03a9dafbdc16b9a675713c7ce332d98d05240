@@ -1,0 +1,12 @@
+GET /path/path HTTP/1.1
+HoS~: 127.0.0.1:555ecko/201
+HoS~: 1ht5.5
+Accept-`Enctent-Length: 0óõUpath HTTP/1.1
+HoS~: 127.0.0.1:555ecko/201
+HoS~: 1ht5.5
+Accept-`Enctent-Length: 0óõUpgra /path/path HTTP/1.1
+HoS~: 127.0.0.1:555ecko/201
+HoS~: 1ht5.5
+Accept-`Enctent-Length: 0óõUpgrade: 1
+
+

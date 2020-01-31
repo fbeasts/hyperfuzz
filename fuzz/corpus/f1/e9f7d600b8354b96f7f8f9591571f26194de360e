@@ -1,0 +1,13 @@
+GET /path/path HTTP/1.1
+Host: 127.0.0.1:5555
+User-Agmnt: Moz=0.8
+Acc*`t-Langua-Encoding: gzilla/5.0 =0.8
+Acc*`t-Langua-Encoding: gzip, de
+Acg: gzilla/5.0 =0.8
+Acc*`t-Langua-Encoding: gzc*pt-Language: en/html,applicatp,*/*;q=0.8uage: c.0.1:5555
+User-Agmnt: Mozilla/5.0 =0.8
+Acc*`t-Langua-Encoding: gzip, de
+Accure-Requests: 1
+
+
+

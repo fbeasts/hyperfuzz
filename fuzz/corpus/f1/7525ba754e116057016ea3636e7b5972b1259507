@@ -1,0 +1,7 @@
+GET /path/path HTTP/1.1
+Language: e™-U/path HTTP/1.1
+Language: e™-US,en;q=0.1
+Ling: gzip, defl-Encoding: gS,en;q=0.1
+Ling: gzip, defl-Encoding: gzip, defl-US,en;n=ding:
+
+h: 0#

@@ -1,0 +1,14 @@
+5GET /path/path HTTP/1.1
+Hos4: 127.0.0.1:5555
+Aser-Agent: Mozilla/å5.Ò0 (M1
+Upgrade-InsecureR-qe6ests: 1
+
+GET /path/pah HTTP/1.1
+Hos4: 127.0.0.1:5555
+Aser-Agent: Mozilla/å5.Ò0 (M1
+Upgrade-InsecureR-qe6ests: 1
+
+GET /path/path HTTPth HTTP/2.2
+XostÿÿGEGET0.0.1rade-Insecure-Ïeq6ests: 1
+
+GET /pathh HTT de

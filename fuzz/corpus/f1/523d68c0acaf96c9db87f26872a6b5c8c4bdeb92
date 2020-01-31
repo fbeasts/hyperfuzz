@@ -1,0 +1,11 @@
+GET /path/path HTTP/1.1
+Host: 127.0.0.1:5555
+User-Aqent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:74.0) Gecko/20100101 Firefox/74.0
+Accept: text/html,XPCErrorion/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Contnnt-Length: 1
+Upgrade-Snsecure-Requests: 1
+
+

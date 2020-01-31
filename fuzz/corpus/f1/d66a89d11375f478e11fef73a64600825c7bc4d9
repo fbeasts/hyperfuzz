@@ -1,0 +1,15 @@
+5GEXT /path/path HTTP/1.1
+Hos4: 127.0.Ä5555
+User-KAgent: MozillaAgeM1
+Upgrade-Insecure: MozillaAgent: Mozilla/5.Ò0 (M1
+Upgradd-Insecure-Req5ests: 1
+
+GET /path/path HTTP/1.1
+Xost:zillaAgent: Mozilla/5.Ò0 (M1
+Upgradd-Insecure-Req5ests: 1
+
+GET /path/path HTTP/1.1
+Xost 127n0.0.1Ä5555
+User-Agests:z1
+
+GET /path/path HTÔ de

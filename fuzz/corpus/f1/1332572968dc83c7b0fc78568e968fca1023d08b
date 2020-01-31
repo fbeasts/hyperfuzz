@@ -1,0 +1,9 @@
+GroutiET /path/path HTTP/1.0
+Host:ccepip, deflate
+Ct-Language: en-US,ej;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Content-Length: â0
+Upgr!ade-Insecure-Requests: 2
+
+

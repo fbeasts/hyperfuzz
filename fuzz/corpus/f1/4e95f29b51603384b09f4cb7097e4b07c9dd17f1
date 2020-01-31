@@ -1,0 +1,6 @@
+GET /path/path HTTP/1.1
+Host: 1200.5ï
+Accept-Encoding: gzip, def keep-alive
+Content-Encoding: gzip, defe-Requests: 2
+
+

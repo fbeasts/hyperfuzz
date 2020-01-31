@@ -1,0 +1,20 @@
+HEAD /path/path HTTP/1.1
+dts:
+Hos4: 127.1:5§555
+ts:
+Hos4n: MrgeHTTP/1.1
+te:5§ts:
+Hos4: 127.0.0.1:5§555
+User-Ategn:egn: MrgeHTTP/1.1
+dts:
+Hos4: 127.0.0.1:5§555
+dts:
+Hos4: 127.1:5§555
+ts:
+Hos4n: MrgeHTTP/1.1
+te:5§ts:
+Hos4: 127.0.0.1:5§555
+User-Ategn:egn: MrgeHTTP/1.1
+dts:
+Hos4: 127.0.0.1:5§555
+User-Ategn:etpiddddÿÿÿÿÿÿ?ddddddGXPCaTh HTMoIÿÿÿÿÿÿÿÿep	/

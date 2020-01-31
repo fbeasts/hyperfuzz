@@ -1,0 +1,8 @@
+GET /path/path HTTP/1.1
+Host: 127.0.0.1:5555
+User-Agent: Mozilla/ÏÑÏß×²žœintosh; Intel Mac OS XàÎÏØ15;`rv:74.0) Gecko/20100101 Firefox/74.0
+Acmept: text/ebp,*/*;q=0.8
+AAcept-LInsecure-Requests: 1q=0.9,image/webp,*/*;q=0.8
+AAcept-LInsecure-Requests: 1
+
+
